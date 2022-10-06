@@ -1,0 +1,5 @@
+Method.txt
+1. cutadapt program was install using “conda install cutadapt” command.
+2. adapter sequence were used using https://dnatech.genomecenter.ucdavis.edu/wp-content/uploads/2019/03/illumina-adapter-sequences-2019-1000000002694-10.pdf.
+3. job script was created.
+4. script was submitted to queue system with sbatch command 
